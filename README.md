@@ -2,13 +2,13 @@
 I am a new college student at Unhasy Jombang. i love code and technology 
 <hr style="margin-top: 15px;margin-bottom: 15px">   
 
-<h2> Working 🚀</h2>
+<h2> Currently Working With 🚀</h2>
 <span><img src="./img/php.png"/></span> &nbsp;
 <span><img src="./img/git.png"/></span> &nbsp;
 <span><img src="./img/javascript.png"/></span> &nbsp;
 <hr style="margin-top: 15px;margin-bottom: 15px">   
 
-<h2> Learning 📚</h2>
+<h2> currently Learning 📚</h2>
 <span><img src="./img/react.png"/></span>&nbsp;
 <span><img src="./img/laravel.png"/></span>&nbsp;
 <span><img src="./img/csharp.png"/></span>&nbsp;
