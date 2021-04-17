@@ -1,17 +1,17 @@
-<h2> Hey there! I'm Fitra. <img src="./icon/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Fitra. <img src="./img/Hi.gif" width="25"></h2>
 I am a new college student at Unhasy Jombang. i love code and technology 
 <hr style="margin-top: 15px;margin-bottom: 15px">   
 
 <h2> Working 🚀</h2>
-    <span style="margin-left: 5px;margin-right: 5px;"><img src="./img/php.png"/></span>
-    <span style="margin-left: 5px;margin-right: 5px;"><img src="./img/git.png"/></span>
-    <span style="margin-left: 5px;margin-right: 5px;"><img src="./img/javascript.png"/></span>
+<span><img src="./img/php.png"/></span> &nbsp;
+<span><img src="./img/git.png"/></span> &nbsp;
+<span><img src="./img/javascript.png"/></span> &nbsp;
 <hr style="margin-top: 15px;margin-bottom: 15px">   
 
 <h2> Learning 📚</h2>
-    <span style="margin-left: 5px;margin-right: 5px;"><img src="./img/react.png"/></span>
-    <span style="margin-left: 5px;margin-right: 5px;"><img src="./img/laravel.png"/></span>
-    <span style="margin-left: 5px;margin-right: 5px;"><img src="./img/csharp.png"/></span>
+<span><img src="./img/react.png"/></span>&nbsp;
+<span><img src="./img/laravel.png"/></span>&nbsp;
+<span><img src="./img/csharp.png"/></span>&nbsp;
 <hr style="margin-top: 15px;margin-bottom: 15px">   
 
 
