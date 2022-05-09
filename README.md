@@ -11,7 +11,6 @@ I am a second year student at Unhasy Jombang. i like code and technology
 
 <h2> Currently Learning 📚</h2>
 <span><img src="./img/nextjs.png"/></span>&nbsp;
-<span><img src="./img/csharp.png"/></span>&nbsp;
 <hr style="margin-top: 15px;margin-bottom: 15px">   
 
 
