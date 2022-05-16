@@ -16,4 +16,4 @@ I am a second year student at Unhasy Jombang. i like code and technology
 
 <h2> My Contact 👦</h2>
 <a href="https://www.instagram.com/fitra36_"><img src="https://img.shields.io/badge/Instagram-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="www.linkedin.com/in/rizki36"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rizki36"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
