@@ -7,11 +7,11 @@ I am a second year student at Unhasy Jombang. i like code and technology
 <span><img src="./img/typescript.png"/></span> &nbsp;
 <span><img src="./img/javascript.png"/></span> &nbsp;
 <span><img src="./img/react.png"/></span>&nbsp;
-<hr style="margin-top: 15px;margin-bottom: 15px">   
-
-<h2> Currently Learning 📚</h2>
 <span><img src="./img/nextjs.png"/></span>&nbsp;
 <hr style="margin-top: 15px;margin-bottom: 15px">   
+
+<!-- <h2> Currently Learning 📚</h2> -->
+<!-- <hr style="margin-top: 15px;margin-bottom: 15px">    -->
 
 
 <h2> My Contact 👦</h2>
